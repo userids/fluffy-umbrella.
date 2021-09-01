@@ -477,5 +477,4 @@ window.Modernizr = function (a, b, c) {
  function page(){
      window.open('index2.html', '_blank');
  }
- window.alert('Most of the items are hover based except the contacts section.');
- window.alert('For better experience use your device in landscape mode.(If you are using a phone or a tab.)')
+ window.alert('Most of the items are hover based except the contacts section.For better experience use your device in landscape mode.(If you are using a phone or a tab.)');
